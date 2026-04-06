@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Recurrly",
-    "slug": "Recurrly",
+    "slug": "recurrly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8a9b296c-5e17-4736-a5f6-dc25e18d2cb3"
+      }
+    },
+    "owner": "panumba"
   }
 }
