@@ -1,6 +1,5 @@
 import {Tabs} from "expo-router";
 import {tabs} from "@/constants/data";
-import {Icon} from "expo-router/build/native-tabs";
 import { colors, components} from "@/constants/theme";
 import {View} from "react-native";
 import {Image} from "react-native";
